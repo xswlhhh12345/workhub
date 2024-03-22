@@ -1,0 +1,6 @@
+﻿  snake.cpp
+D:\向大佬学习的牛逼作品\snake\snake\snake.cpp(111,26): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\向大佬学习的牛逼作品\snake\snake\snake.cpp(116,26): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\向大佬学习的牛逼作品\snake\snake\snake.cpp(121,26): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+D:\向大佬学习的牛逼作品\snake\snake\snake.cpp(126,26): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  snake.vcxproj -> D:\向大佬学习的牛逼作品\snake\x64\Debug\snake.exe
